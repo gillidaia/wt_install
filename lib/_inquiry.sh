@@ -59,7 +59,7 @@ get_backend_url() {
 get_frontend_port() {
   
   print_banner
-  printf "${WHITE} 💻 Digite a porta do FRONTEND para a ${instancia_add}; Ex: 3000 A 3999 ${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Digite a porta do FRONTEND para a ${instancia_add}; Ex: 3333 A 3999 ${GRAY_LIGHT}"
   printf "\n\n"
   read -p "> " frontend_port
 }
