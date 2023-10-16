@@ -1,15 +1,15 @@
 
     sudo su root
-   # 
+   # teste
    
     adduser deploy
-    ##
+    #teste
     
     usermod -aG sudo deploy
-    ##
+    #teste
     
     sudo apt update
-    #
+    #teste
     
     sudo apt install npm
     #
