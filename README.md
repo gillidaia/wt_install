@@ -1,18 +1,18 @@
 
     sudo su root
-   # teste
-   
+   # teste #
+
     adduser deploy
-    # teste
+    # teste #
     
     usermod -aG sudo deploy
-    # teste
+    # teste #
     
     sudo apt update
-    # teste
+    # teste #
     
     sudo apt install npm
-    #
+  # teste #
     
     cd /home && git clone https://github.com/gillidaia/wt_files.git
 
