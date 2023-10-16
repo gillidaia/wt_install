@@ -3,13 +3,13 @@
    # teste
    
     adduser deploy
-    #teste
+    # teste
     
     usermod -aG sudo deploy
-    #teste
+    # teste
     
     sudo apt update
-    #teste
+    # teste
     
     sudo apt install npm
     #
